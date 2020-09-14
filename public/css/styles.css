@@ -4,37 +4,44 @@ body {
     line-height: 2;
 }
 
+
 /** Globales **/
+
 img {
     max-width: 100%;
 }
 
-:before, *:after{ /*Para que siempre se mantenga el ancho y el largo, e ignore al padding*/
+:before,
+*:after {
+    /*Para que siempre se mantenga el ancho y el largo, e ignore al padding*/
     box-sizing: inherit;
 }
 
+
 /*Header superior*/
 
-.header_superior  {
+.header_superior {
     background: #c787a2;
     height: 28px;
     min-width: 500px;
-} 
-.vipheader { 
+}
+
+.vipheader {
     text-align: center;
     font-size: 14px;
     color: white;
     margin: 0 0 0 0;
 }
 
+
 /* Header central*/
 
-.vipheader_medio{
+.vipheader_medio {
     font-size: 14px;
     display: flex;
     justify-content: space-between;
     text-align: center;
-    line-height:1.5;
+    line-height: 1.5;
 }
 
 .contenedor {
@@ -43,16 +50,11 @@ img {
     margin: 0 auto;
 }
 
-.alinear{
+.alinear {
     padding-top: 2.5rem;
 }
 
-.alinear-parrafo{
+.alinear-parrafo {
     margin-top: 0%;
     padding-top: 1.5rem;
 }
-
-
-
-
-  

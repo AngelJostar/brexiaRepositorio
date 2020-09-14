@@ -15,12 +15,15 @@
             <p>Escribenos por Whatsapp <br> (celular) 52 1 5535 8125</p>
             </div>
             <div>
-            <img src="/img/brexia-logo.png" alt="logo">
+            @include("layouts.redes_sociales_bar")
             </div>
         </div>
     </div>
     <div>
+    </div>
 
+    <div>
+    <img src="/img/Especialistas_cancer.jpg" alt="imagen">
     </div>
 
 
