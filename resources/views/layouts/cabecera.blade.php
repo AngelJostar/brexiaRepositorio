@@ -17,9 +17,20 @@
             <div>
             @include("layouts.redes_sociales_bar")
             </div>
+            <div></div>
         </div>
     </div>
     <div>
+    </div>
+
+    <div class="header_inferior contenedor">
+        <a class="color" href="#">Inicio</a>
+        <a class="color" href="#">¿Cómo tratamos el Cáncer?</a>
+        <a class="color" href="#">Ser paciente en Brexia</a>
+        <a class="color" href="#">Aspectos básicos del Cáncer</a>
+        <a class="color" href="#">Tipos de Cáncer</a>
+        <a class="color" href="#">Segunda Opinión</a>
+        <a class="color" href="#">Contacto</a>
     </div>
 
     <div>

@@ -37,7 +37,7 @@ img {
 /* Header central*/
 
 .vipheader_medio {
-    font-size: 14px;
+    font-size: 15px;
     display: flex;
     justify-content: space-between;
     text-align: center;
@@ -57,4 +57,28 @@ img {
 .alinear-parrafo {
     margin-top: 0%;
     padding-top: 1.5rem;
+    font-weight: 700;
+    opacity: 0.6;
+}
+
+
+/*Header inferior*/
+
+.header_inferior {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-weight: bold;
+}
+
+
+/*utilidades*/
+
+.color {
+    color: #c787a2;
+}
+
+.fuente {
+    font-family: 'Open Sans', sans-serif;
 }
